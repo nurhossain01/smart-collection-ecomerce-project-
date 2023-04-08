@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1338461762",
+    "index": 0,
+    "price": 4500,
+    "picture": "https://media.istockphoto.com/id/1338461762/photo/blue-modern-mens-mid-drive-motor-city-touring-or-trekking-e-bike-pedelec-with-electric.jpg?s=612x612&w=is&k=20&c=4BVqLFuFaJq22tSlrzt6Uh9eWxwLLoxSVjEHr6FAaWs=",
+    "name": "Battery powered e-bike",
+    "category": "bicycle"
+  },
+  {
+    "id": "1428994315",
+    "index": 0,
+    "price": 12,
+    "picture": "https://media.istockphoto.com/id/1428994315/photo/smiling-woman-outdoor-portrait-short-blonde-hair-fashion-model-wears-stylish-clothes-double.jpg?s=612x612&w=is&k=20&c=wgg-z7IcPlHy9hQs9Tgcx7QMb9heqm96_RSbpERYFts=",
+    "name": "Short blonde hair fashion model wears stylish clothes",
+    "category": "women's cloths"
+  },
+  {
+    "id": "1403016589",
+    "index": 0,
+    "price": 1200,
+    "picture": "https://media.istockphoto.com/id/1403016589/photo/one-athletic-young-woman-cycling-outside-sporty-fit-female-wearing-helmet-and-glasses-while.jpg?s=612x612&w=is&k=20&c=Y-j0F41808Pit7QYeFfaqEHApZIjQNCOiqj4X6SGvmg=",
+    "name": "One athletic young woman cycling outside",
+    "category": "bicycle"
+  },
+  {
+    "id": "6238539",
+    "index": 1,
+    "picture": "https://i.ibb.co/mBjmxg2/smart-home-v2-3.jpg",
+    "name": "Smart Air Fryer",
+    "price": 279,
+    "category": "Home Appliance"
+    },
+  {
+    "id": "1322928386",
+    "index": 0,
+    "price": 1200,
+    "picture": "https://media.istockphoto.com/id/1322928386/photo/young-woman-bikes-down-country-road-at-sunrise.jpg?s=612x612&w=is&k=20&c=jONGE4w-melNmfncWei9VD9TgAg2SIGifQwX5aMLrpw=",
+    "name": "Sun rises over distant mountain range",
+    "category": "bicycle"
+  },
+  {
+    "id": "6238538",
+    "index": 0,
+    "price": 799,
+    "picture": "https://i.ibb.co/GnQsSsL/smart-home-v2-7.jpg",
+    "name": "Smart Air Conditioner",
+    "category": "Home Appliance"
+    },
+  {
+    "id": "1406148993",
+    "index": 0,
+    "price": 1000,
+    "picture": "https://media.istockphoto.com/id/1406148993/photo/smiling-young-black-man-enjoying-sport-with-friends-in-nature.jpg?s=612x612&w=is&k=20&c=SJesCsF13LH9iFGknozUAQDQK7DwdSIV7I4Z3KxyWXA=",
+    "name": "Smiling young adult black man enjoying sport with friends in nature",
+    "category": "bicycle"
+  },
+  {
+    "id": "623853b2614",
+    "index": 0,
+    "price": 799,
+    "picture": "https://i.ibb.co/GnQsSsL/smart-home-v2-7.jpg",
+    "name": "Smart Air Conditioner",
+    "category": "Home Appliance"
+    },
+  {
+    "id": "1372136146",
+    "index": 0,
+    "price": 1500,
+    "picture": "https://media.istockphoto.com/id/1372136146/photo/cycling-teammates-giving-high-five-while-riding-bicycles.jpg?s=612x612&w=is&k=20&c=MjjxL6swgRWFStJP_8xgGrs4jyubURFzU36JkgHPzHQ=",
+    "name": "Cycling teammates giving high five while riding bicycles on the road.",
+    "category": "bicycle"
+  },
+   
+   
+    {
+    "id": "6238537",
+    "index": 2,
+    "picture": "https://i.ibb.co/c1mCwM4/smart-home-v2-9.jpg",
+    "name": "Smart Home Fan",
+    "price": 78,
+    "category": "Home Appliance"
+    },
+    {
+    "id": "6238536",
+    "index": 3,
+    "picture": "https://i.ibb.co/6nwPbqg/smart-home-v1-3.jpg",
+    "name": "Smart Home Key",
+    "price": 51,
+    "category": "Home Appliance"
+    },
+    {
+      "id": "6238535",
+      "index": 4,
+      "price": 34,
+      "picture": "https://i.ibb.co/BqTBk7p/smart-home-v2-5.jpg",
+      "name": "Smart Pet Feeder",
+      "category": "Home Appliance"
+      },
+    {
+    "id": "6238534",
+    "index": 5,
+    "picture": "https://i.ibb.co/QKCWxZc/smart-home-v1-7.jpg",
+    "name": "Robot Vacuum Cleaner",
+    "price": 141,
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b27363",
+    "index": 6,
+    "price": 141,
+    "picture": "https://i.ibb.co/Lvmy6b9/smart-home-v1-10.jpg",
+    "name": "Smart Solar Panel",
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b27362",
+    "index": 7,
+    "price": 35,
+    "picture": "https://i.ibb.co/y8Dnrmk/smart-home-v2-10.jpg",
+    "name": "Smart Table Lamp",
+    "category": "Home Appliance"
+    },
+    {
+    "id": "623853b27361",
+    "index": 8,
+    "price": 65,
+    "picture": "https://i.ibb.co/mHwf3bD/smart-home-v1-5.jpg",
+    "name": "Room Temperature Meter",
+    "category": "Home Appliance"
+    }   
+]
